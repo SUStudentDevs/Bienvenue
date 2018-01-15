@@ -2,7 +2,7 @@
 Les informations à lire pour les petits nouveaux
 
 ## Informations
-Le code de conduite est disponible dans [CODE_OF_CONDUCT.md] (CODE_OF_CONDUCT.md). Veuillez le lire attentivement. En contribuant au projet, vous acceptez implicitement le code.
+Le code de conduite est disponible dans [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Veuillez le lire attentivement. En contribuant au projet, vous acceptez implicitement le code.
 Pour plus d'information sur comment participer aux différents projets, veuillez consulter CONTRIBUTING.md
 
 ## Contacts
