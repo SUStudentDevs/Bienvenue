@@ -24,6 +24,7 @@ Si vous êtes victimes ou témoins d'un acte qui vous semble contrevenir à ce c
 * basile.pesin@etu.upmc.fr
 * ulysse.fontaine@etu.upmc.fr
 * keyvan.beroukhim@etu.upmc.fr
+
 Nous nous pencherons sur le problème le plus rapidement possible.
 
 ## Conséquences
