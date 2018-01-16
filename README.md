@@ -7,7 +7,7 @@ Le code de conduite est disponible dans [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 Pour plus d'information sur comment participer aux différents projets, veuillez consulter CONTRIBUTING.md
 
 ## Objectifs
-L'objectif de cette organisation est d'amener les étudiants de l'UPMC/Sorbonne Universités à contribuer au développement des logiciels internes. Cependant les logiciels développés ont aussi vocation à étre utilisés par d'autres universités. Nous vous invitons donc, si vous êtes étudiant d'une autre Université, à contribuer aux logiciels développés ici, ainsi qu'a "faire la publicité" de ses logiciels auprès de l'administration de votre Université.
+L'objectif de cette organisation est d'amener les étudiants de l'UPMC/Sorbonne Universités à contribuer au développement des logiciels internes. Cependant les logiciels développés ont aussi vocation à étre utilisés par d'autres universités. Nous vous invitons donc, si vous êtes étudiant d'une autre Université, à contribuer aux logiciels développés ici, ainsi qu'à "faire la publicité" de ces logiciels auprès de l'administration de votre Université.
 
 ## Contacts
 * Basile PESIN basile.pesin@etu.upmc.fr
