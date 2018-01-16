@@ -4,7 +4,7 @@
 L'objectif de cette communauté étant de permettre aux étudiants de contribuer à la vie de l'Université Pierre et Marie Curie, nous souhaitons faire de cette participation une expérience agréable pour tous les contributeurs.
 
 ## Portée
-Ce code est applicable sur l'ensemble des repertoires de l'organisation UPMCStudentDevs, ainsi que dans les autres espaces communautaires liés à l'organisation (réels ou virtuels).
+Ce code est applicable sur l'ensemble des répertoires de l'organisation UPMCStudentDevs, ainsi que dans les autres espaces communautaires liés à l'organisation (réels ou virtuels).
 
 ## Valeurs
 * **Ouverture** : Les projets sont ouverts à toute personne souhaitant y collaborer (qu'elle soit élève de l'UPMC/Sorbonne Université ou pas). Nous nous attendons donc a ce que les participants soient accueillants envers les nouveaux arrivants.
