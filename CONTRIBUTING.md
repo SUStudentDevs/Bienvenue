@@ -35,4 +35,4 @@ Les projets sont touhours accompagnés d'un fichier LICENSE. Veuillez noter que 
 
 ## Reconnaissance et licence de ce guide
 Ce guide est très lourdement inspiré du guide du projet [lambda-go-samples](https://github.com/aws-samples/lambda-go-samples/), disponible [ici](https://github.com/aws-samples/lambda-go-samples/blob/master/CONTRIBUTING.md). La principale modification faite a été de traduire le guide en francais. Quelques adaptations ont aussi été faite pour mieux adhérer à l'organisation.
-Ce guide (comme celui dont il est inspiré) est placé sous la licence [Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+Ce guide (comme celui dont il est inspiré) est placé sous la licence [Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/).
