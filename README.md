@@ -2,12 +2,14 @@
 Les informations à lire pour les petits nouveaux
 
 ## Informations générales
+Cette organisation contient plusieurs répertoires de travail dédiés aux projets des étudiants de Sorbonne Université.
+
 Le code de conduite est disponible dans [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Veuillez le lire attentivement. En contribuant au projet, vous acceptez implicitement le code.
 
-Pour plus d'information sur comment participer aux différents projets, veuillez consulter CONTRIBUTING.md
+Pour plus d'information sur comment participer aux différents projets, veuillez consulter [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Objectifs
-L'objectif de cette organisation est d'amener les étudiants de l'UPMC/Sorbonne Universités à contribuer au développement des logiciels internes. Cependant les logiciels développés ont aussi vocation à étre utilisés par d'autres universités. Nous vous invitons donc, si vous êtes étudiant d'une autre Université, à contribuer aux logiciels développés ici, ainsi qu'à "faire la publicité" de ces logiciels auprès de l'administration de votre Université.
+L'objectif de cette organisation est d'amener les étudiants de Sorbonne Université à contribuer au développement des logiciels internes. Cependant les logiciels développés ont aussi vocation à étre utilisés par d'autres universités. Nous vous invitons donc, si vous êtes étudiant d'une autre Université, à contribuer aux logiciels développés ici, ainsi qu'a "faire la publicité" de ces logiciels auprès de l'administration de votre Université.
 
 ## Contacts
 * Basile PESIN basile.pesin@etu.upmc.fr
